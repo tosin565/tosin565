@@ -1,6 +1,6 @@
 # Hi, I'm Tosin Balogun Habeeb 👋
 
-### Data Analyst | Healthcare Analytics | Statistics | Business Intelligence
+### Data Analyst | Healthcare Analytics | Statistics |Research
 
 I am a Data Analyst with a background in Statistics and a growing specialisation in healthcare analytics, business intelligence and data-driven decision-making.
 
